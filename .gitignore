@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 *.env
+*.idea
+*.git
+*.gitignore
 
 # Distribution / packaging
 .Python
